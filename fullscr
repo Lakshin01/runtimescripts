@@ -1,0 +1,6 @@
+#!/bin/sh
+cp .alacritty.full.yml .alacritty.yml 
+
+/usr/bin/alacritty 
+exit
+
